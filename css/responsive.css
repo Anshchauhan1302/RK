@@ -1,0 +1,531 @@
+@media screen and (max-width:1400px) {
+    .company-logo img {
+        width: 60%;
+    }
+
+    .nav-item>a {
+        font-size: 0.9rem;
+    }
+
+    .about-right-text h3 {
+        font-size: 7.37em;
+    }
+
+    .about-right-text h5 {
+        font-size: 0.9rem;
+        top: 15%;
+    }
+
+    .about-right-text h2 {
+        font-size: 2.4rem;
+        margin-top: -9%;
+    }
+
+    .about-section .row>div {
+        padding-right: 1rem;
+    }
+
+    .card {
+        height: 25rem;
+    }
+
+    .services h3,
+    .project h3,
+    .testimonials h3,
+    .customers h3,
+    .testimonials h3 {
+        font-size: 7.37em !important;
+    }
+
+    .services-heading,
+    .project-heading,
+    .achivement-heading,
+    .testimonials-heading,
+    .customers-heading {
+        margin-top: -4rem;
+    }
+
+    .services h2,
+    .project h2,
+    .customers h2 {
+        font-size: 2.4rem;
+    }
+
+    .services,
+    .project,
+    .testimonials,
+    .customers {
+        margin-top: 4.5rem;
+        text-align: center;
+        position: relative;
+    }
+
+    .services {
+        margin-top: 8rem;
+    }
+}
+
+@media screen and (max-width:1200px) {
+
+    .company-logo img {
+        width: 50%;
+    }
+
+    .nav-item>a {
+        font-size: 0.6rem;
+    }
+
+    .about-right-text h3 {
+        font-size: 5.37em;
+    }
+
+    .about-right-text h5 {
+        font-size: 0.8rem;
+        top: 10%;
+        left: 51%;
+    }
+
+    .about-right-text h2 {
+        font-size: 2rem;
+        margin-top: -1%;
+    }
+
+    .about-right-text p {
+        width: 90%;
+        font-size: 0.9rem;
+    }
+
+    .services h3,
+    .project h3,
+    .testimonials h3,
+    .customers h3,
+    .testimonials h3 {
+        font-size: 5.37em !important;
+    }
+
+    .services-heading,
+    .project-heading,
+    .achivement-heading,
+    .testimonials-heading,
+    .customers-heading {
+        margin-top: -3rem;
+    }
+
+    .services h2,
+    .project h2,
+    .customers h2 {
+        font-size: 2rem;
+    }
+
+    .about-right-text-bottom-part h4 {
+        font-size: 1.1rem;
+    }
+
+    .about-right-text-bottom-part p {
+        font-size: 0.8rem;
+        padding-inline: 4rem;
+    }
+
+    .services,
+    .project,
+    .testimonials,
+    .customers {
+        margin-top: 5rem;
+    }
+
+    .services {
+        margin-top: 11rem;
+    }
+}
+
+@media screen and (max-width:992px) {
+
+    .dropdown-menu {
+        margin-top: 0.5rem !important;
+        width: 250px;
+        padding-bottom: 0.6rem;
+        background: none;
+        border: none;
+    }
+
+    .dropdown-menu a:hover {
+        background: none;
+    }
+
+    .dropdown-item {
+        font-size: 0.7rem;
+        padding: 0.1rem 0.5rem;
+        color: var(--black-color);
+    }
+
+    .dropdown-item::before {
+        content: '-';
+        margin-right: 0.3rem;
+    }
+
+    .dropdown-menu li {
+        font-size: 0.9rem;
+    }
+
+    .nav-item>a:hover,
+    .nav-item>a:focus,
+    .nav-item>a:active {
+        color: var(--text-secondary);
+        border-bottom: none;
+    }
+
+
+    .about-right-text h3 {
+        font-size: 3.37em;
+    }
+
+    .about-right-text h5 {
+        font-size: 0.7rem;
+        top: 6%;
+        left: 51%;
+    }
+
+    .about-right-text h2 {
+        font-size: 1.5rem;
+        margin-top: 10%;
+    }
+
+    .about-right-text p {
+        width: 90%;
+        font-size: 0.8rem;
+    }
+
+    .secondary-btn {
+        font-size: 0.9rem;
+        padding: 0.6rem 1.2rem;
+
+    }
+
+    .services h3,
+    .project h3,
+    .testimonials h3,
+    .customers h3,
+    .testimonials h3 {
+        font-size: 3.37em !important;
+    }
+
+    .services-heading,
+    .project-heading,
+    .achivement-heading,
+    .testimonials-heading,
+    .customers-heading {
+        margin-top: -2.5rem;
+    }
+
+    .services h2,
+    .project h2,
+    .customers h2 {
+        font-size: 1.5rem;
+    }
+
+    .about-right-text-bottom-part h4 {
+        font-size: 1rem;
+    }
+
+    .about-right-text-bottom-part p {
+        font-size: 0.7rem;
+        padding-inline: 3rem;
+    }
+
+    .services,
+    .project,
+    .testimonials,
+    .customers {
+        margin-top: 4rem;
+    }
+
+    .customers {
+        margin-top: 5rem;
+    }
+
+    .services {
+        margin-top: 15rem;
+    }
+
+    /* ABOUT US PAGE */
+
+    .mission-sec {
+        padding-inline: 0rem;
+    }
+
+    .mission-sec img {
+        margin-left: 20%;
+    }
+
+}
+
+@media screen and (max-width:767px) {
+
+    .about-right-text h3 {
+        font-size: 4em;
+    }
+
+    .about-right-text h5 {
+        position: relative;
+        font-size: 0.7rem;
+        top: 8%;
+        left: 1%;
+        ;
+    }
+
+    .about-right-text h2 {
+        font-size: 1.5rem;
+        margin-top: 2%;
+    }
+
+    .about-right-text p {
+        width: 100%;
+        font-size: 0.9rem;
+    }
+
+    .about-right-text-bottom-part div {
+        margin-left: -6rem;
+    }
+
+    .services h3,
+    .project h3,
+    .testimonials h3,
+    .customers h3,
+    .testimonials h3 {
+        font-size: 4em !important;
+    }
+
+    .services-heading,
+    .project-heading,
+    .achivement-heading,
+    .testimonials-heading,
+    .customers-heading {
+        margin-top: -2.8rem;
+    }
+
+    .services h2,
+    .project h2,
+    .customers h2 {
+        font-size: 1.5rem;
+    }
+
+    .about-right-text-bottom-part h4 {
+        font-size: 1rem;
+    }
+
+    .about-right-text-bottom-part p {
+        font-size: 0.8rem;
+        padding-inline: 4rem;
+    }
+
+    .services,
+    .project,
+    .testimonials,
+    .customers {
+        margin-top: 4rem;
+    }
+
+    .services {
+        margin-top: 16rem;
+    }
+
+    .customers .container {
+        margin-top: -3rem;
+    }
+
+
+    /* ABOUT US PAGE */
+
+    .vision-sec img {
+        margin-left: 0rem;
+    }
+
+    .mission-sec img {
+        margin-left: 15%;
+    }
+}
+
+
+@media screen and (max-width:540px) {
+
+    .top-banner i {
+        font-size: 0.9rem !important;
+        margin-right: 0.2rem;
+    }
+
+    .gmail-sec a {
+        color: var(--white-color);
+        text-decoration: none;
+    }
+
+    .gmail-sec a:hover {
+        text-decoration: underline;
+    }
+
+    .phn-number,
+    .gmail-sec {
+        font-size: 0.8rem;
+    }
+
+    .company-logo img {
+        width: 30%;
+    }
+
+    .about-right-text h3 {
+        font-size: 3em;
+    }
+
+    .about-right-text h5 {
+        position: relative;
+        font-size: 0.6rem;
+        top: -2%;
+        left: 0;
+    }
+
+    .about-right-text h2 {
+        font-size: 1.2rem;
+        margin-top: 1%;
+    }
+
+    .about-right-text p {
+        width: 100%;
+        font-size: 0.7rem;
+    }
+
+    .about-right-text-bottom-part div {
+        margin-left: -6rem;
+    }
+
+    .secondary-btn {
+        font-size: 0.7rem;
+        font-weight: 500;
+        padding: 0.5rem 1.2rem;
+
+    }
+
+    .secondary-btn:hover {
+        background: none;
+    }
+
+    .services h3,
+    .project h3,
+    .testimonials h3,
+    .customers h3,
+    .testimonials h3 {
+        font-size: 3em !important;
+    }
+
+    .services-heading,
+    .project-heading,
+    .achivement-heading,
+    .testimonials-heading,
+    .customers-heading {
+        margin-top: -2.3rem;
+    }
+
+    .services h2,
+    .project h2,
+    .customers h2 {
+        font-size: 1.2rem;
+    }
+
+    .about-right-text-bottom-part h4 {
+        font-size: 1rem;
+    }
+
+    .about-right-text-bottom-part p {
+        font-size: 0.8rem;
+        padding-inline: 4rem;
+    }
+
+    .services,
+    .project,
+    .testimonials,
+    .customers {
+        margin-top: 4rem;
+    }
+
+    .services {
+        margin-top: 16rem;
+    }
+
+    .footer {
+        padding-block: 1.5rem;
+        background: var(--text-primary);
+    }
+
+    .footer li,
+    .footer a {
+        color: var(--white-color);
+        font-size: 0.7rem;
+        margin-bottom: 0.6rem;
+    }
+
+    .footer ul li:first-child {
+        transform: none !important;
+        font-size: 1rem;
+        font-weight: 600;
+        margin-bottom: 1rem;
+    }
+
+    .footer ul li i {
+        font-size: 1rem;
+        margin-right: 0.2rem;
+    }
+
+    .qicks-links li:hover,
+    .social-links li:hover {
+        transition: all 0.3s;
+        transform: none;
+    }
+
+    .footer-number h5,
+    .footer-mail h5 {
+        font-size: 0.7rem;
+    }
+
+    .sub-footer {
+        padding: 1rem;
+        font-size: 0.8rem;
+        background: rgb(9, 33, 109);
+    }
+
+    /* ABOUT US PAGE */
+
+    .about-section1 p,
+    .about-section2 p {
+        padding: 0.6rem;
+    }
+
+    .mission-sec img{
+        width: 70%;
+        display: flex;
+        flex-shrink: 2;
+    }
+}
+
+@media screen and (max-width:370px) {
+
+    .about-right-text-bottom-part div {
+        margin-left: -4rem;
+    }
+
+    .about-right-text-bottom-part h4 {
+        font-size: 0.8rem;
+        font-weight: 600;
+        color: var(--text-primary);
+    }
+
+    .about-right-text-bottom-part p {
+        font-size: 0.6rem;
+        padding-inline: 3rem;
+    }
+
+    .services {
+        margin-top: 14rem;
+    }
+
+    .swiper {
+        margin-top: -3rem;
+    }
+}
